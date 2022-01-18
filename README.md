@@ -6,6 +6,4 @@
   
 - 🌱  I’m currently learning cloud design patterns and best practices 😎
 
-## Technologies and Tools I use
-
 ### Thanks for visiting my profile.
