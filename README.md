@@ -1,6 +1,6 @@
 ## Hi there, I'm Joseph Perez 👋
 
-https://badges.pufler.dev/visits/zepperez/zepperez
+<img src = https://badges.pufler.dev/visits/zepperez/zepperez>
 
 - 🔭  I’m passionate about Infrastructure as Code, Automation and DevOps
   
