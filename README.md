@@ -9,6 +9,4 @@
 - 🌱  I’m currently learning cloud design patterns and best practices 😎
 
 
-
-
 ### Thanks for visiting my profile.
